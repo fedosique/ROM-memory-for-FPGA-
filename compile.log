@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2022-1/rk_91/Markovskiy/rom_lab_/rom_lab_.srcs/sources_1/new/ROM_4x2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ROM_4x2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2022-1/rk_91/Markovskiy/rom_lab_/rom_lab_.srcs/sim_1/new/ROM_4x2_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ROM_4x2_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/2022-1/rk_91/Markovskiy/rom_lab_/rom_lab_.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
