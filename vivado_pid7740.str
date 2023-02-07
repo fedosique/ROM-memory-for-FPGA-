@@ -1,0 +1,149 @@
+/*
+
+Xilinx Vivado v2018.2 (64-bit) [Major: 2018, Minor: 2]
+SW Build: 2258646 on Thu Jun 14 20:03:12 MDT 2018
+IP Build: 2256618 on Thu Jun 14 22:10:49 MDT 2018
+
+Process ID: 7740
+License: Customer
+
+Current time: 	Tue Feb 07 22:34:00 MSK 2023
+Time zone: 	Moscow Standard Time (Europe/Moscow)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 12
+
+Screen size: 1920x1080
+Screen resolution (DPI): 96
+Available screens: 1
+Available disk space: 13 GB
+Default font: family=Dialog,name=Dialog,style=plain,size=12
+
+Java version: 	1.8.0_112 64-bit
+Java home: 	Z:/Programs/Vivado/2018.2/tps/win64/jre
+Java executable location: 	Z:/Programs/Vivado/2018.2/tps/win64/jre/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 2 GB
+
+
+User name: 	Фёдор
+User home directory: C:/Users/Фёдор.23476-PC
+User working directory: C:/Users/Фёдор.23476-PC/Desktop/rom_lab_
+User country: 	RU
+User language: 	ru
+User locale: 	ru_RU
+
+RDI_BASEROOT: Z:/Programs/Vivado
+HDI_APPROOT: Z:/Programs/Vivado/2018.2
+RDI_DATADIR: Z:/Programs/Vivado/2018.2/data
+RDI_BINDIR: Z:/Programs/Vivado/2018.2/bin
+
+Vivado preferences file location: C:/Users/Фёдор.23476-PC/AppData/Roaming/Xilinx/Vivado/2018.2/vivado.xml
+Vivado preferences directory: C:/Users/Фёдор.23476-PC/AppData/Roaming/Xilinx/Vivado/2018.2/
+Vivado layouts directory: C:/Users/Фёдор.23476-PC/AppData/Roaming/Xilinx/Vivado/2018.2/layouts
+PlanAhead jar file location: 	Z:/Programs/Vivado/2018.2/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/Фёдор.23476-PC/Desktop/rom_lab_/vivado.log
+Vivado journal file location: 	C:/Users/Фёдор.23476-PC/Desktop/rom_lab_/vivado.jou
+Engine tmp dir: 	C:/Users/Фёдор.23476-PC/Desktop/rom_lab_/.Xil/Vivado-7740-23476-PC
+
+Xilinx Environment Variables
+----------------------------
+XILINX: Z:/Programs/Vivado/2018.2/ids_lite/ISE
+XILINX_DSP: Z:/Programs/Vivado/2018.2/ids_lite/ISE
+XILINX_PLANAHEAD: Z:/Programs/Vivado/2018.2
+XILINX_SDK: Z:/Programs/SDK/2018.2
+XILINX_VIVADO: Z:/Programs/Vivado/2018.2
+XILINX_VIVADO_HLS: Z:/Programs/Vivado/2018.2
+
+
+GUI allocated memory:	158 MB
+GUI max memory:		3,052 MB
+Engine allocated memory: 503 MB
+
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// [GUI Memory]: 71 MB (+72230kb) [00:00:07]
+// [Engine Memory]: 502 MB (+374413kb) [00:00:07]
+// aL (ck): Older Project Version: addNotify
+// [GUI Memory]: 78 MB (+3427kb) [00:00:08]
+// HMemoryUtils.trashcanNow. Engine heap size: 503 MB. GUI used memory: 37 MB. Current time: 2/7/23 10:34:02 PM MSK
+selectRadioButton(PAResourceTtoZ.UpgradeProjectDialog_OPEN_PROJECT_IN_READ_ONLY_MODE, "Open project in read-only mode"); // a (Q, aL)
+selectRadioButton(PAResourceTtoZ.UpgradeProjectDialog_AUTOMATICALLY_UPGRADE_TO_CURRENT, "Automatically upgrade to the current version"); // a (Q, aL)
+selectButton(RDIResource.BaseDialog_OK, "OK"); // a (aL)
+// Opening Vivado Project: C:\Users\Фёдор.23476-PC\Desktop\rom_lab_\rom_lab_.xpr. Version: Vivado v2016.4 
+// bx (ck):  Open Project : addNotify
+dismissDialog("Older Project Version"); // aL (ck)
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project C:/Users/Фёдор.23476-PC/Desktop/rom_lab_/rom_lab_.xpr 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: FILESET_TARGET_UCF_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/Фёдор.23476-PC/Desktop/rom_lab_/rom_lab_.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'D:/2022-1/rk_91/Markovskiy/rom_lab_' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [Project 1-230] Project 'rom_lab_.xpr' upgraded for this version of Vivado. INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// HMemoryUtils.trashcanNow. Engine heap size: 564 MB. GUI used memory: 36 MB. Current time: 2/7/23 10:34:42 PM MSK
+// [Engine Memory]: 565 MB (+40587kb) [00:00:53]
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'Z:/Programs/Vivado/2018.2/data/ip'. 
+// TclEventType: PROJECT_NEW
+// [Engine Memory]: 627 MB (+34755kb) [00:00:56]
+// [Engine Memory]: 677 MB (+19553kb) [00:00:58]
+// Project name: rom_lab_; location: C:/Users/Фёдор.23476-PC/Desktop/rom_lab_; part: xc7z020clg484-1
+// Tcl Message: open_project: Time (s): cpu = 00:00:08 ; elapsed = 00:00:11 . Memory (MB): peak = 846.070 ; gain = 137.895 
+// Elapsed time: 11 seconds
+dismissDialog("Open Project"); // bx (ck)
+// TclEventType: DG_ANALYSIS_MSG_RESET
+// TclEventType: DG_GRAPH_GENERATED
+// Tcl Message: update_compile_order -fileset sources_1 
+// Elapsed time: 31 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ROM_4x2 (ROM_4x2.v)]", 1, false); // B (D, ck)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, ROM_4x2 (ROM_4x2.v)]", 1, false, false, false, false, false, true); // B (D, ck) - Double Click
+selectMenu(PAResourceItoN.MainMenuMgr_FILE, "File"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_PROJECT, "Project"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_CHECKPOINT, "Checkpoint"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_IP, "IP"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_TEXT_EDITOR, "Text Editor"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_IP, "IP"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_TEXT_EDITOR, "Text Editor"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_EXPORT, "Export"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_EXPORT, "Export"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_EXPORT, "Export"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_TEXT_EDITOR, "Text Editor"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_IP, "IP"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_CHECKPOINT, "Checkpoint"); // aa (ck)
+selectMenu(PAResourceItoN.MainMenuMgr_PROJECT, "Project"); // aa (ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_FILE, "File"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_TOOLS, "Tools"); // V (q, ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_TOOLS, "Tools"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_EDIT, "Edit"); // V (q, ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_EDIT, "Edit"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_FLOW, "Flow"); // V (q, ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_FLOW, "Flow"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_TOOLS, "Tools"); // V (q, ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_TOOLS, "Tools"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_REPORTS, "Reports"); // V (q, ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_REPORTS, "Reports"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_WINDOW, "Window"); // V (q, ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_WINDOW, "Window"); // V (q, ck)
+selectMenu(RDIResource.MainWinMenuMgr_LAYOUT, "Layout"); // V (q, ck)
+dismissMenu(RDIResource.MainWinMenuMgr_LAYOUT, "Layout"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_VIEW, "View"); // V (q, ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_VIEW, "View"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_HELP, "Help"); // V (q, ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_HELP, "Help"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_VIEW, "View"); // V (q, ck)
+selectMenu(PAResourceItoN.MainMenuMgr_UNSELECT_TYPE, "Unselect Type"); // aa (ck)
+dismissMenu(PAResourceItoN.MainMenuMgr_VIEW, "View"); // V (q, ck)
